@@ -5,8 +5,8 @@
 ## Setup
 
 ```
-git clone https://github.com/towerfinance/tower-core.git
-cd tower-core
+git clone https://github.com/towerfinance/tower-solidity.git
+cd tower-solidity
 npm install
 ```
 
